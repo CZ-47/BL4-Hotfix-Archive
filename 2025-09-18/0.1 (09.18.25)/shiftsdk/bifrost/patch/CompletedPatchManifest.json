@@ -1,0 +1,102 @@
+{
+    "id": "67c079d7-c03e-4bc8-a1c2-c4bbce326975",
+    "name": "MP_091825_PC_1_4_4289355",
+    "metadata": {},
+    "network_patch_size": 44301,
+    "disk_patch_size": 44598,
+    "download_creation_time": "2025-09-19T21:21:04.832065648Z",
+    "download_expiration_time": "2025-09-19T22:21:04.832065648Z",
+    "files": [
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/0086e50d-8fe6-4c16-8a69-e0ac734c12af?Expires=1758320464&Signature=NQdbeiLXLGHUnP0LhP2zj42ib29IGcmUgWmgBtzIidpKCFoVCiwnkutKTCVQf1QjWZFuk9VCyTsPsOvTIA2zZPPENRkN7izF49vmpsM1hRZNmSzzunO~SkXOdogMYj-uZITJzb~w9CSr-HxVbxKi2nSGyrS34Suamlwjd89h18-zNcAPTCIGDGBrLrlmzrdhpVLaJ6xZfdWqRMWJ94yrRgkc4blqHtNa60Y-Yz3ZXUgo~HSpEztDymBlxZWMsUkMs6gXmDrbEkrBnpRr034KBoY31kViNrJaJgcCklPAq0Jj0S4LkUr8FYmW02TKcWfasa64OciLZp4xPVGMnAMnmw__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-firing_pattern.ncs",
+            "hash": "cb1f58107e3315910f645c7bc7eef1f0",
+            "network_file_size": 1171,
+            "disk_file_size": 1178
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/c83a39fb-18f7-4035-a537-c72b6ed715c1?Expires=1758320464&Signature=lZ7DL29~e05L4Em3d5pd8-PpT4~3VBSJFpzavSnht6dQJmjyuCWH5C7X6-mpQj892h7VvXUo74l1iQwpCGrrDksOcuTt0ctO4Ml~x1UOJqWNF5y3pwmIfW6mjIrbR-rblESVESzJ2eNvvkwGxHqGOBWHyJM46reoGwLyOciWXVx-ZH7TfEfYsVhGXtxQ41KzKohMhPXfzFICeOrqPloWfSxiITEwoi~5KmvgYBu~aMbAYz8BrkERnv~Niu6i8Y4k7Dq~HYNp1tCDUAn8kHTM~EwosxP0iD~6Sbyu~xdPMcFQj5sVDgpeQtteBwEzZnpNRxQlXDmasg9RUQZ2tq7jCg__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-inv_name_part.ncs",
+            "hash": "8da92847c30cf86fa339a8b2d8722e4e",
+            "network_file_size": 489,
+            "disk_file_size": 490
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/72459fe1-0a7a-4231-9f32-c63524838ad1?Expires=1758320464&Signature=ktLFxtMEamigkG3g42rUZ8F2uGXpIjupVWxP9uqZFKBBJdXSQcotoNrtaBwUGTzK63KiPspOmo5YLGPypdbYRqtVzlslSdOa63zbCyVobk1RcOgvrzY7iWqsN4-HrmHjzLdcE5hsOf8w0AdJfT9jcgxAZ9ahKPZ1lMOvD9dm8~jleHUYYC8JEqc2peBi94tcycvGXOM4AY~C92cGh51IaAsVI5kIx1uHwS6A7oDZQ0v7~TmkJLmO9LlTp8xGIwM30MjGHxoqQ2X2wZY9RdJdWOXokApOBXI~lKNoTMwlogxAa120zgMvrx7D8us2NKegn0Y2qvWLTEzAPcKrqayS1Q__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-inv.ncs",
+            "hash": "a37387510bd3e71c08aa5fde921a3c99",
+            "network_file_size": 8184,
+            "disk_file_size": 8211
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/a4ebe248-bef9-4ca8-a38d-8fedf4122988?Expires=1758320464&Signature=Qo7EYh6YbwxnDsY79u9vhTN7GSEwEShCwXFP5CoycPxHNI-pLjaNCyRUXNWgQVZx0vHnLj8sG~d9Co1AVl1GifsKavH0ti8dJqvp~QfL7HQ6x1~c2vXDHIw~nzCltbmvNWj2dTehz-WWHDfPfCxitwb8jortDleO4he9nm3dezWpzSyf7sqeOKEJvqeanxc5bhdn8w8TJBMW6zp-5IUjezCnLnQ21zSeinYYCzgqUmzL395IWWFYDghxcP-B-~jStPYHj0-nVMxb3-ZweS4nc5AcmLfe6KwgU-qVTRJqX0C-rRx37S8XW-8lUS-NrgJFURvHoppOvB2CbIAs9gOKXw__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-light_projectile.ncs",
+            "hash": "a602cc78a571e4bae671ff952a18739a",
+            "network_file_size": 1528,
+            "disk_file_size": 1500
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/f8d6e11f-1346-47c3-a034-70a891394805?Expires=1758320464&Signature=GJZNSKue7l41ttsjvkt1RdFzXlTYn4B4k0VeFkjdYQXWyKjw2uvxMKxBHZI3YSzJ~xg3JhdGH6bmI2GEmjxMyiXFBhPZy8tNLC-oZBRt11kfVHk-cGasCecKmcTMbM7rIKd1lXt2wa1431mOYxYIXWPkhzCxuAFaiV87zo--DVKb79g5RuYL~50D-yXiyabr0anO~0v8kKUc7g2QHn9lvxdMTF5N0XSNhTcCi8KORYuGtAs0-TqNXFXbx4S-R3Kdf82soyX8HdVu7Z0xzgE0lOn8NSt5K3T5vygqpGAoby1gaKNjy5Efhl5oTaymV~t~5HNQHAr1AmOds2r7cSoROA__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-Mission.ncs",
+            "hash": "56a982796e1d11e2b8ae5e0ebf0c3024",
+            "network_file_size": 20465,
+            "disk_file_size": 20432
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/a9a53b3b-926e-4e4b-9f98-1a98f00480ee?Expires=1758320464&Signature=IA6RhFog9Wj9QOmoRQJtHYihTXS-VJjB-Jv4YAtBtoD86bxy9fQs0w8j1V2hhhPU-rrmxclOwqIzUj5Dl9xpzeKiKWt3C7XScTKE1nwFhaWovXc0tg9ASZkAlrFimAOjEYfkszYCO6rpqGJjjZtGt8UpntFwUPl-7qJfol7FGTlys3FNlcs4h-qjHWmyEFpn0neyxY-GNcZdH9l5dgju6grp-TMvsUfQN8aiFrWb8pXS5vpydOIthqzy74hZOdV~CKG8tCmKq0IRc3~rxDFnw0zH1jXMVmNBQY6FjohxOdiK3XqHez1YNnyPwDka-~r0j2JQ2wmcO-wj7xvVX3RM~Q__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-Resident.ncs",
+            "hash": "bd3269de0cd4adca70b75614625a4a70",
+            "network_file_size": 3087,
+            "disk_file_size": 3059
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/8118874e-0eca-4523-bfe2-a589ce5f6a42?Expires=1758320464&Signature=HTNjMvnDkIjE2lzaZBV-JqBhAd4mClABmeIhVfBYoEo7Ut0Hs-24pXfGeoNXoIvadpphVJkgH9jEiPx4a7gOTxU5PvTwP1Ht7XFGSBR2wKP-i9E7sUF5LJgtjrCC5d14CyutTtcqikksx7ZldZMDSmakwx35ZWkRogPnUWZV5JPxauc862Yh66SudZMRO6l9Aki6qmnf3owMXe2s003C5fYq0EUj0Z3FLiaG6e2jaDzE0PLYZXW3pkxJXSpJmY2LwxTHEbNBjAYJA3FjSn0ry2wqdyJggSt8Ec12GMYBaO3VLc9H5fxmgkVOo3jcf5DIF1QtKv8N5FXb3KwlDSWHLg__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-attribute.ncs",
+            "hash": "c9711e631605c430dac661c8d97c088d",
+            "network_file_size": 771,
+            "disk_file_size": 773
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/be6c8aeb-e927-4452-80a7-bed320c10f6e?Expires=1758320464&Signature=CEkD23anE4l9yQ9322BVmhKbMBD6ds9SJznvFhfhugZMq7CgbQ0tgcUDFRczjWlgJMIiUHESjphOouEwIrXLQRD-Tl9G6Op-3K175dWUvUGX~duHXJZxAiOXGQ1592WdQcqAwU2IxzUvFWLKeCkoZTU2t87xbh8FGD7WarBk5YuGdbTdQc~7MAiKiZ-yVVACPGekOd1RL7NMVMjc0zo5EINh1tcvLZN32purx0J4W3HJB9DvOwOFNT95EFS3FdfR7cMzryXkSWW7XmLEK1MPbWF~qwEulDxkqqCGgo4iWNkJuRgMRjijqa4h564TDchoCUMptwRrpbMpSS5ciO5V5g__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-DamageData.ncs",
+            "hash": "befb859642d82cc69a9dd2eb1e2e7e54",
+            "network_file_size": 537,
+            "disk_file_size": 541
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/a160fdbd-62ab-4e3f-8564-21fe22dd5858?Expires=1758320464&Signature=uLw1VDyifiVqrs5ueF1R~WLrKzyjf2QgO8uJMhfoMNDWfzhIKXs26JqejMmmvB97j3VsHwp9w-aWBAvDVfgMnYwvpnlPFAX6qZcVyCgL9uF3tA1Uv~xJ6J77y66vmlbJep2LVMwzLDxFYn97tapejEWCpM7oTTlvBorTZAo9WKWq2l57etRQBcBg2TJ-IAWr7NU2A303Q4I3vr51-Tv2Inzq8H898f6nxyDb6glw06H8OA8cYRkkOzIJ8ni4sucq5uJu4XKINaIW6vqS14KA7QzCLSqxM8w9MLR0sb~AnspJqQ~v39hOPltZaNycO8EcbB8KB~MZxV~7gmUrW6Q6Bw__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-gbxactor.ncs",
+            "hash": "5b9731e587f2181ddf2b34981761d776",
+            "network_file_size": 870,
+            "disk_file_size": 842
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/2e5196ca-de8e-4b46-a098-4a6684e5824d?Expires=1758320464&Signature=qXjbw8BACzpS9O43LqXD3rQApm6q~ahar~47yMATc1PY86-ECSnIQiO3rN2zp0RCHTARHzlshQms844MyMqG34Z9dO88Mkc4lhn3BDFwdR5RmLmqQEI88d3UskqovxSw5TyBhnPinG1r0g7DHqwMZwG1Gw0sx1KNt06g2AqJKOdpSgeXJgfpk1KCVEAjia2w3L2uUuxK2MCjw6MPDkdlVTAT7fSmMyOAMc7A9ydYNiKaMbe1L0E0jOvcuO-fK9bY6PP3UmCoHHjaZ8WISSRCtzxoDgAh4-LCEFqs4nfJgiolDy5QhMeDbkq3oLS7SztSG2Ny2wK5Ywv1mgWjaLXY2A__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-rewards.ncs",
+            "hash": "a947b39873d42aa3d7eae6925c57cf6c",
+            "network_file_size": 5025,
+            "disk_file_size": 4997
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/50a735fd-6c81-4b11-9b73-ed2d98f285ae?Expires=1758320464&Signature=aorsVw-EeEIBXdRKwJt1MgQ0IqD25bTndD3GXn7rQxLMmXT7Gzy1q5DYkS0-yFj0mMoqh7F-WAD2B27QgnHq712Te-Kc1DrOewttj3wk4R8Keu6mQYVjIbU0w6d~nZia0XLcqDRn0Q3gtQleyzvJfl9NQfqqX6FMP~ewjOL7kpcprETDTC4NUwlr87g45lTjmnqEat0lW7W8iYFOVDsREYYSfy0hcXXztZo6LYmUf09-Ke3dQGECkofE6xqyrVJvKFIsI9xx-2Wz7f2I5b-m24Lgz2oE0-8QOecptR8nbqYj-HKfJ~8CEwnc6~otkeZUP2Tab7XN98Tfzrpujt4maQ__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-trait_mission.ncs",
+            "hash": "2e11bfa7bec251fdf0bb86817af9a58a",
+            "network_file_size": 663,
+            "disk_file_size": 680
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/13713f97-ad21-4879-8e7e-19f38c9d841a?Expires=1758320464&Signature=LNYWm-BaYoZdzFmP-5U82TuOnLMKK9TMi88OJk4ny8C7400fVu1sCOAwFCmirDBdV31jK-mBmn-SBZJQZGo5pooyzSssS2ZUUwapKucB6uqmKNK2ZYGghKranWdp-8j3mNdUGlvcirfXu8oOA1GgI~ROQQGerUlp6Md6Gyd4GYiisnHcvJEqPCCD09POPCjcyCaKKGVLhj5ihQKxUp3fzENONTrCaCofkt3XEnMAzgN2pxb9rDfrvZJtKRdbpIXhU4TfGGmphdnDMMpCEecS1wi3VFuDtpw-nQwntCzEJAjoBmTdHdtA2bDdlqink0ogcixHy7UgQALACcFVf3~Rqw__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "_NCS/Nexus-Data-ui_stat.ncs",
+            "hash": "0f36059d5a193f7566920e8aa2068296",
+            "network_file_size": 995,
+            "disk_file_size": 967
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/ab1883f6-be04-4d4d-99f1-627aa958dcd0?Expires=1758320464&Signature=a7MeDjtmlEflrDGhsX07NDkAYNiR9R79uPpJHjPX5IUf8F3ERaENz88yM1Iqs5ZUWRbYuQwjSEQGr4nMjZcMrIP29gZxH7y9xJFMt4DhE~lCLjP9e4ZHvhDRxDLQP115pww2LycPqMyz1QOi-uFopRDRQCxpq50YRU-Pu2LJHOPkjIARTn29hsvMs5p5z4ztqQZjLW1exCIgJCNs9aLVxwGj~BmmiIHGbRicwnD5epH0VsTxLhEZlfql4WofTDnDtj8o8Cg792QTwATvgTqD9wAFWbk~GQNclWEXgkVtwp4juiNsf1hpm8IQYKDbLyQfdPH3chHCpnsC1e4DdEqniw__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "OAK2-WIN64-4289355__0.1.0.1.rm",
+            "hash": "041bea39a619b81b45273676d9f6f5b3",
+            "network_file_size": 516,
+            "disk_file_size": 928
+        }
+    ]
+}

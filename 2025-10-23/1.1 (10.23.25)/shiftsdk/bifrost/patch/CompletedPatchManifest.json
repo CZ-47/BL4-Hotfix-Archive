@@ -1,0 +1,39 @@
+{
+    "id": "a1c7af6c-748e-47c6-8820-9e4f39691dfa",
+    "name": "MP_102325_30_4331748_HalloweenEvent",
+    "metadata": {},
+    "network_patch_size": 1227691,
+    "disk_patch_size": 1245959,
+    "download_creation_time": "2025-10-24T20:38:02.185041719Z",
+    "download_expiration_time": "2025-10-24T21:38:02.185041719Z",
+    "files": [
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/472c9241-3cf5-4c60-ae21-73613f438e55?Expires=1761341882&Signature=mAfrEaVYopJToHJb9F5uYRZbSK4c~Gdy83Jd-dJDyLnKgGOPtQjmclWMKElSf~j8WqbqVpYL4sTc5yGs-T5jZcdBGpd5Pqo3RvuZKZz86ujFStKPHKMqouXymOT-RNwVUaMTsWkCL00AUQCe6FTZxfKoTu3BilyNRwXYopA9ewaigHrAAyuz7IJFu5VpwG4ew~tZTtT67T~wZyy-arjqLp6qiLqmiktGpGWILvq-6rwr864y0gFFlB6inQICyL~50zZVrvDPeTs0lBHswgeoXJhPfYh0accpJXrteXoVDRZv4X6p3pCA4qKHHBCqEZHozWN0EI1AaWzlkv8qElV8kQ__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "OAK2-WIN64-4331748__1.1.0.1.rm",
+            "hash": "b6ab5fa5418da8f0a69b3cf22931f663",
+            "network_file_size": 438,
+            "disk_file_size": 1346
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/71ec9b03-12e6-4b6f-91db-2e9021d91ac3?Expires=1761341882&Signature=XJe75vbnkLsWYTWcrurItvJQqg424xrmI-yhtsajrlloILeJcwcI6qF66XKcdelxwcX5qdrqjkISshO1IH8lKovXJPFg0LjmZJkyN0kOIXYJVbuvL6w4GcmohDzrj8ZlJDyJBNCjq4-S2JYNKgViPt7yZleECWFYHOOtUeFb-~qIZmMBd5CeYBEBUXg-e2h6mppDQuWCfUOUkCWAYXtQzHi7Jtpf1D0ecVXDe6US7KmVjosLNbJk3iA~tIyvnTtpwNQ49LsYqCAndtTB~n4Vg2q08I1JhhJTfg7moxjB18xaUKaNoG2-rU2hsTas~DxTS~b9StC3osCQ1qlx5asDrg__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "pakchunk99-windows_99_P.pak",
+            "hash": "28e8ae19a5ad1148281c464281b4e2dd",
+            "network_file_size": 32160,
+            "disk_file_size": 41425
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/b94b7f5e-ed95-482e-8bba-f63d58dd5bb2?Expires=1761341882&Signature=sfS9cuHLixwhFnZ-uEs-~Ye-hGcOWoEa3J0jSmu6gkLmW2xuhO9svcXX4IpN~PgzvNIIhRZAvTRZf9Tp7Br7WkXj4k8Qjju18sX9bQRSHhfTduPQpm2Ldp8ZN5KJCGeOa~M~SzNyPtnyghc4293FZ-cSPzdMW7zWykLYCviNMwICxl73iCUu73bX1RjhuPOOcLoCNsa~5ZzAzDH8P4XZr-YOjLFweDFBbB5z6LRb-eMW84v1vUS76aV9MqZKQAuYi8uyWwsTVwsu8WxaBphnVErpiJIdV~gFv4KJPZoJvolqRryEoA8mLgeIaCVRyxdJKWv41aRIW7lHjnrxo2jdMg__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "pakchunk99-windows_99_P.ucas",
+            "hash": "e813f32f2511e3a2b89e14d2d95ae8b4",
+            "network_file_size": 1194171,
+            "disk_file_size": 1201584
+        },
+        {
+            "link": "https://patchwork-files.shift.services.gearbox.com/62857285-e576-4cc7-bf1c-8f1f86a6cd8b?Expires=1761341882&Signature=XFNSDbTNxKx0Zo1oAuhxuMwfSv8Azi4XtAWK7425ySCjBl3xhQpHV7jA6D4j-gxTXXwgkD5H7TUN5iBOC-kIYoCk0ntujrRzCF9uwTpEDWkOz2e4t5wXDRqQfV4T7yC6n4z8yZiDa1h5wFTIfh8cdO6XtB-ZU-0L16NeM44s9PpCt6SiNTxw1qTh6SOLkzCzlltFHaGlx07bMazmf1tjSK-gqjfZcOl24mHGVNrLIktpVNQTPLA7CaNou8A9baip6BfutVGhSMYO1dhjjGgT9px40o6wMqvqYjm73tJymUPSvkcEdoCuN8ZFRxBc0jAgrQ5DQ9ZM6AUhT~LXk0lAmw__&Key-Pair-Id=K1LN7M2UIYUC05",
+            "path": "pakchunk99-windows_99_P.utoc",
+            "hash": "f9e769f303ced876d6adbd533ff3414b",
+            "network_file_size": 922,
+            "disk_file_size": 1604
+        }
+    ]
+}
