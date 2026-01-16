@@ -1,3 +1,5 @@
+NO HOTFIX FILES, SORRY
+
 Update Notes - November 20, 2025
 Major Update Notes
 
