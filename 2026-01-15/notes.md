@@ -42,17 +42,9 @@ Amon:
     Blade Tempest: Now fires 5 swords per barrage, and addressed a reported issue that could cause a change in cooldown duration
 
 Weekly Big Encore Boss:
-Foundry Freaks
-Foundry Freaks
+    Foundry Freaks
 
 Weekly Wildcard Mission:
-Weekly Wildcard Mission
+    Mission: One Fell Swoop (Experienced, Vampiric, Strong)
+    Legendary Gear Reward: G.M.R. Order Assault Rifle
 
-Mission: One Fell Swoop (Experienced, Vampiric, Strong)
-
-Legendary Gear Reward: G.M.R. Order Assault Rifle
-
-Maurice’s Black Market Vending Machine
-Maurice’s Black Market Vending Machine
-
-Here's a visual hint to where Maurice’s Black Market Vending Machine is hidden this week. Remember, while this week's location is the same for everyone, your vending machine items are different from other players, so ask around to see if someone has the item you’re looking for! 
