@@ -1,7 +1,6 @@
 https://borderlands.2k.com/borderlands-4/update-notes/
 
 Minor Update Notes - January 15, 2026
-Minor Update Notes - January 15, 2026
 
 This Minor Update includes a new set of Weekly Activities in addition to a permanent increase to dedicated drop rates and buffs for Harlowe and Amon players.
 
