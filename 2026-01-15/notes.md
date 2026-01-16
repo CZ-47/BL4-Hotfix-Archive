@@ -17,8 +17,7 @@ Please restart your game to ensure that the update goes through and to prevent c
 If you're encountering any issues, please contact 2K Support for direct assistance. You can also read the PC Troubleshooting Guide, a list of known issues, or browse a list of Support threads here.
 
 Change Notes:
-
-Gameplay
+Gameplay:
 
     A permanent increase to Legendary drop rate chance has been added
     The Phosphene variant of Daedalus Legendary Assault Rifle Bloody Lumberjack has been added to the Foundry Freaks loot pool
@@ -42,9 +41,11 @@ Amon:
     Blade Tempest: Now fires 5 swords per barrage, and addressed a reported issue that could cause a change in cooldown duration
 
 Weekly Big Encore Boss:
+
     Foundry Freaks
 
 Weekly Wildcard Mission:
+
     Mission: One Fell Swoop (Experienced, Vampiric, Strong)
     Legendary Gear Reward: G.M.R. Order Assault Rifle
 
