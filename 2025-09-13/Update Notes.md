@@ -1,3 +1,5 @@
+Update Notes: https://support.borderlands.com/hc/en-us/articles/44702566231955-Borderlands-4-Update-Notes-September-13-2025
+
 Update Notes - September 13, 2025
 
 We hope you're having a blast in Borderlands 4. The team is loving seeing you all shooting and looting your way through Kairos.
@@ -13,3 +15,4 @@ If you have an AMD graphics card, please refer to this Borderlands 4 AMD Optimiz
 Thanks again for joining us on this journey, Vault Hunters—we're just getting started. We’re continuing to read your feedback, planning additional updates and will have more details to come.
 
 If you're encountering any issues, please contact 2K Support for direct assistance. You can also read the PC Troubleshooting Guide, a list of known issues, or browse a list of Support threads here.
+
