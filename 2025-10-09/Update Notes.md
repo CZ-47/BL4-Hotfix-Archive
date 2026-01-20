@@ -1,5 +1,7 @@
 TY DECEPTIX FOR THE HOTFIX FILES
 
+Update Notes: https://support.borderlands.com/hc/en-us/articles/45422424883347-Borderlands-4-Update-Notes-October-9-2025
+
 Borderlands 4 Update Notes - October 9, 2025
 
 This update for Borderlands 4 refreshes the Weekly Activities, adjusts some Legendary gear values, and addresses concerns reported by the community. 

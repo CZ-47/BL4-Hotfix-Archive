@@ -1,5 +1,7 @@
 TY DECEPTIX FOR THE HOTFIX FILES
 
+Update Notes: https://support.borderlands.com/hc/en-us/articles/45614239355411-Borderlands-4-Update-Notes-October-23-2025
+
 Hello, Vault Hunters! Can you believe we’ve already shared more than a month of mayhem together in Borderlands 4?! To celebrate, we have an update that includes widespread stability improvements, multiplayer fixes, UI polish, and a suite of quality-of-life upgrades across visuals, audio, and accessibility. It also addresses various reported issues for Vault Hunters including major balance tuning, loot systems, gear, and achievements—further refining late-game, mission flow, and overall player experience.
 
 We will monitor the community closely for feedback and respond after the changes have settled. This measured approach to your input will provide a consistent and better experience. As a reminder, our primary goal with balance adjustments is to provide you the greatest number of viable builds.

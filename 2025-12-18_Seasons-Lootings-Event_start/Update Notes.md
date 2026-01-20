@@ -1,3 +1,5 @@
+Update Notes: https://support.borderlands.com/hc/en-us/articles/47411360192787-Borderlands-4-Minor-Update-Notes-December-18-and-December-25-2025
+
 Minor Update Notes - December 18, 2025
 
 Triple Threat

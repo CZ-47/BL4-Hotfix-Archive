@@ -1,6 +1,8 @@
 TY DECEPTIX FOR THE HOTFIX FILES
 
- Update Notes - October 16, 2025
+Update Notes: https://support.borderlands.com/hc/en-us/articles/45675080844179-Borderlands-4-Update-Notes-October-16-2025
+
+Update Notes - October 16, 2025
 
 To all PC players with NVIDIA GeForce hardware: We highly encourage you to update to the latest drivers 581.57 that were released on Tuesday, October 14, as NVIDIA has addressed a number of GPU crashes. 
 Please restart your game to ensure that the update goes through and to prevent connection errors in matchmaking.

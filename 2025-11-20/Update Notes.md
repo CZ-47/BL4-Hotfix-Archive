@@ -1,5 +1,7 @@
 NO HOTFIX FILES, SORRY
 
+Update Notes: https://support.borderlands.com/hc/en-us/articles/46523012775315-Borderlands-4-Major-Update-Notes-November-20-2025
+
 Update Notes - November 20, 2025
 Major Update Notes
 

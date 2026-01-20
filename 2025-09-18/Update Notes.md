@@ -1,5 +1,6 @@
 TY DECEPTIX FOR THE HOTFIX FILES
 
+Update Notes: https://support.borderlands.com/hc/en-us/articles/44775548611091-Borderlands-4-Update-Notes-September-18-2025
 
 Borderlands 4 Update Notes - September 18, 2025
 

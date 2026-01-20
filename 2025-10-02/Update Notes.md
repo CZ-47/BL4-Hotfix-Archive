@@ -1,5 +1,7 @@
 TY DECEPTIX FOR THE HOTFIX FILES
 
+Update Notes: https://support.borderlands.com/hc/en-us/articles/45221494273683-Borderlands-4-Update-Notes-October-2-2025
+
 Borderlands 4 Update Notes - October 2, 2025
 
 This update includes some additional balance changes and updates for Vault Hunters.

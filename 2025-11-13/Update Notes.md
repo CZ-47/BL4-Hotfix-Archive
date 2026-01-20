@@ -1,5 +1,7 @@
 NO HOTFIX FILES, SORRY
 
+Update Notes: https://support.borderlands.com/hc/en-us/articles/46475399369235-Borderlands-4-Update-Notes-November-13-2025
+
 Update Notes - November 13, 2025
 
 Please restart your game to ensure that the update goes through and to prevent connection errors in matchmaking.

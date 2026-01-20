@@ -1,5 +1,7 @@
 TY DECEPTIX FOR THE HOTFIX FILES
 
+Update Notes: https://support.borderlands.com/hc/en-us/articles/44951549113747-Borderlands-4-Update-Notes-September-25-2025
+
 Borderlands 4 Update Notes - September 25, 2025
 
 This update brings new Weekly Activities, stability and performance improvements, adjustments to some rewards/progression, and further refinements across UI, audio, visuals, and gear. This update also adds a Field of View (FOV) slider option on consoles. Please restart your game to ensure that the update goes through and to prevent connection errors in matchmaking.
