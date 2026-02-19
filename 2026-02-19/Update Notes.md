@@ -1,4 +1,5 @@
 Update Notes: https://support.borderlands.com/hc/en-us/articles/49260255211027-Borderlands-4-Minor-Update-Notes-February-19-2026
+
 Minor Update Notes - February 19, 2026
 
 
