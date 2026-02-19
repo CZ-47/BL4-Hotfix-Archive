@@ -10,11 +10,13 @@ For this Minor Update, enemies in Ultimate Vault Hunter mode (UVH) are showing t
 Please restart your game to ensure that the update goes through and to prevent connection errors in matchmaking.
 
 If you're encountering any issues, please contact 2K Support for direct assistance. You can also read the PC Troubleshooting Guide, a list of known issues, or browse a list of Support threads here.
+
 Change Notes:
 
     Updated the Teen Witch Class Mod to award the correct amount of points in Vex the Siren’s Grave Thirst passive skill
 
 Weekly Activities
+
 Weekly Big Encore Bosses - Triple Threat:
 
     Idolator Sol
