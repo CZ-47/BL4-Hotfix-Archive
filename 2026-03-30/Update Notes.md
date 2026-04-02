@@ -2,7 +2,8 @@ URL: https://support.borderlands.com/hc/en-us/articles/50399116113811-Borderland
 
 Minor Update Notes - March 30, 2026
 
-Today, we released an update to address reported issues that emerged after the release of Story Pack 1: Mad Ellie and the Vault of the Damned. After seeing your reports the team moved immediately into action to investigate, fix, and test over the weekend to correct these issues as soon as possible. 
+Today, we released an update to address reported issues that emerged after the release of Story Pack 1: Mad Ellie and the Vault of the Damned. After seeing your reports the team moved immediately into action to investigate, fix, and test over the weekend to correct these issues as soon as possible.
+
 Update Notes:
 
     Missing SDU Tokens - Fixed an issue where SDU progress would reset and players would lose some of their tokens when Shared Character Progression automatically applies to a newly created Vault Hunter.
