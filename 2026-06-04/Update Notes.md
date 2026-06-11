@@ -1,18 +1,21 @@
-URL: https://support.borderlands.com/hc/en-us/articles/52508851043347-Borderlands-4-Weekly-Update-June-11-2026
+URL: https://support.borderlands.com/hc/en-us/articles/52256788213011-Borderlands-4-Weekly-Update-June-4-2026#h_01KT578CE1X32SDECP253MRG2E
+
+Weekly Update Notes - June 4, 2026
 
 
-Weekly Update Notes - June 11, 2026
+This Weekly Update adds changes to Harlowe’s HALO Sidekicks and an adjustment to launch pads, as well as a new set of Weekly Activities.
+Change Notes
 
-The only change in this Weekly Update is a new set of Weekly Activities.
-
+    Harlowe’s HALO Sidekicks will activate their buff without needing to touch them.
+    Vault Hunters will no longer be able to fly from doing a ground slam on a launch pad
 
 Weekly Activities
 
 Weekly Big Encore Boss:
 
-        The Oppressor
+    Primordial Guardian Radix
 
 Weekly Wildcard Mission:
 
-        Mission: Life's Purpose (Chromatic, Shielded, Contagious)
-        Legendary Gear Reward: Birt's Bees Vladof SMG 
+    Mission: AAA For Effort (Singularity, Armored, Leaking)
+    Legendary Gear Reward: Goalkeeper Order Assault Rifle 
