@@ -1,3 +1,5 @@
+URL: https://support.borderlands.com/hc/en-us/articles/52891373467283-Borderlands-4-Version-1-8-June-25-2026
+
 Version 1.8 - June 25, 2026
 
 With today's Version 1.8 update, we're releasing new paid content with Bounty Pack 3: A Zane to Kill For*, as well as additional free content for all Borderlands 4 players! This update includes the brand new endgame raid Takedown at Hadron Abyss**, new mobbing challenges in Circle of Slaughter, Cross-Platform Saves, and additional gameplay enhancements. 
