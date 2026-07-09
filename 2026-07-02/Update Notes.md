@@ -1,4 +1,4 @@
-URL: /
+URL: https://support.borderlands.com/hc/en-us/articles/53216258250771-Borderlands-4-Weekly-Update-July-2-2026
 
 
 Weekly Update Notes - July 2, 2026
