@@ -1,4 +1,4 @@
-URL:https://support.borderlands.com/hc/en-us/articles/54571196685075-Borderlands-4-Weekly-Update-August-20-2026
+URL: https://support.borderlands.com/hc/en-us/articles/54571196685075-Borderlands-4-Weekly-Update-August-20-2026
 
 
 Weekly Update Notes - August 20, 2026
